@@ -5,7 +5,7 @@ TicTacToe.py has to be executed on Terminal (Mac/Linux) or Command Line (Windows
 
 1. Make your directory to the location of TicTacToeGame.py file
 
-![alt text](https://raw.githubusercontent.com/timtimtimab/PythonBasic_TicTacToeGame/master/images/to/01.png)
+![alt text](https://raw.githubusercontent.com/timtimtimab/PythonBasic_TicTacToeGame/master/images/01.png)
 
 2. Enter python ./TicTacToeGame.py
 
