@@ -9,9 +9,15 @@ TicTacToe.py has to be executed on Terminal (Mac/Linux) or Command Line (Windows
 
 2. Enter python ./TicTacToeGame.py
 
+![alt text](https://raw.githubusercontent.com/timtimtimab/PythonBasic_TicTacToeGame/master/images/02.png)
+
 3. Game will be started immediately.
 
+![alt text](https://raw.githubusercontent.com/timtimtimab/PythonBasic_TicTacToeGame/master/images/03.png)
+
 4. Whenever someone win the game or tie, the game will be ended. You can type Y or N to restart the game or quit the game. 
+
+![alt text](https://raw.githubusercontent.com/timtimtimab/PythonBasic_TicTacToeGame/master/images/04.png)
 
 Wish you enjoy the game.
 Credit to Jose Portilla, Complete Python Bootcamp in Udemy
